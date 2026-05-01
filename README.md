@@ -242,12 +242,6 @@ brimble-submission/
 - README + documentation: ~30 minutes
 - Total: ~10.5 hours
 
-## Brimble Deploy + Feedback
-
-**Deployed:** [link to Brimble deployment]
-
-**Feedback:**
-[To be written after deploying on Brimble]
 
 ## Author
 
